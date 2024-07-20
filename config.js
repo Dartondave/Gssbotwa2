@@ -8,24 +8,24 @@ global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
+global.owner = ['2347038336733'];
+global.premium = ['2347038336733'];
 global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
 global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
 global.menuType = "2"
-global.autoswview = true
+global.autoswview = false
 global.autoread = false
-global.available = false
+global.available = true
 global.autoTyping = false
 global.autoRecord = false
-global.autoreact = false
+global.autoreact = true
 global.onlygroup = false
 global.onlypc = false
 global.welcome = true
-global.autoBlock = true
+global.autoBlock = false
  
 /*REPLY MESSAGE*/
 global.mess = {
